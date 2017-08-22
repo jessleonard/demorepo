@@ -1,1 +1,1 @@
-Trigger test
+Trigger tests
