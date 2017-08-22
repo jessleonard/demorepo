@@ -1,1 +1,1 @@
-Trigger testasd
+Trigger test
