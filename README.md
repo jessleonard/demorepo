@@ -1,1 +1,1 @@
-Trigger test b
+Trigger test foo
