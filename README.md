@@ -1,1 +1,1 @@
-Trigger tests
+Trigger test success
